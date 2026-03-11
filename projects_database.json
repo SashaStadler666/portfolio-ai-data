@@ -1,0 +1,18 @@
+{
+  "projects": [
+    {
+      "name": "Shell Lab Jewelry",
+      "type": "experimental jewelry",
+      "platform": "instagram",
+      "account": "shell.lab",
+      "focus": ["material exploration", "organic forms", "handmade"]
+    },
+    {
+      "name": "Bob Trying to Make Art",
+      "type": "visual experiments",
+      "platform": "instagram",
+      "account": "bobtryingtomakeart",
+      "focus": ["graphic design", "visual research", "experiments"]
+    }
+  ]
+}
